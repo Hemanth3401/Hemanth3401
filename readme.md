@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hemanth_reddys" target="blank" class="fa fa-twitter"></a>
+<a href="https://twitter.com/hemanth_reddys" target="blank"><i class="fa fa-twitter" aria-hidden="true"></i>
+</a>
 <a href="https://linkedin.com/in/hemanth-reddy-sudini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-reddy-sudini" height="30" width="40" /></a>
 <a href="https://fb.com/hemanth.sudini.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="hemanth.sudini.16" height="30" width="40" /></a>
 <a href="https://instagram.com/the_f_r_e_a_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="the_f_r_e_a_k" height="30" width="40" /></a>
