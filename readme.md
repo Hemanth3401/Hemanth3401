@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hemanth_reddys" target="blank"><i class="fa fa-twitter"></i></a>
-<a href="https://linkedin.com/in/hemanth-reddy-sudini" target="blank"><i class="fa fa-linkedin"></i></a>
-<a href="https://fb.com/hemanth.sudini.16" target="blank"><i class="fa fa-facebook"></i></a>
-<a href="https://instagram.com/the_f_r_e_a_k" target="blank"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/c/techno blog" target="blank"><i class="fa fa-youtube"></i></a>
-<a href="https://www.hackerrank.com/hemanthreddy9941" target="blank"><i class="fa fa-hackerank"></i></a>
+<a href="https://twitter.com/hemanth_reddys" target="blank"><i class="fa fa-twitter">Twitter</i></a>
+<a href="https://linkedin.com/in/hemanth-reddy-sudini" target="blank"><i class="fa fa-linkedin">LinkedIn</i></a>
+<a href="https://fb.com/hemanth.sudini.16" target="blank"><i class="fa fa-facebook">Facebook</i></a>
+<a href="https://instagram.com/the_f_r_e_a_k" target="blank"><i class="fa fa-instagram">Instagram</i></a>
+<a href="https://www.youtube.com/c/techno blog" target="blank"><i class="fa fa-youtube">Youtube</i></a>
+<a href="https://www.hackerrank.com/hemanthreddy9941" target="blank"><i class="fa fa-hackerrank">Hackerrank</i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
